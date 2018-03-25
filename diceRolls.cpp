@@ -25,8 +25,8 @@ void diceHelper(int N, vector<int> &chosen) {
         cout << chosen[i];
         cout << ")\n";
     } else {
-        // some dice left to roll
-        // for each value one dice coud have.
+            // some dice left to roll
+            // for each value one dice coud have.
         for(int i = 1; i <= 6; ++i) {
             chosen.push_back(i);                //choose
             diceHelper(N - 1, chosen);          // explore
