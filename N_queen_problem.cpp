@@ -14,6 +14,9 @@ using namespace std;
 
 typedef long long int lint;
 
+int totalcalls = 0;
+int c = 0;
+
 bool isSafe(vector<vector <int> > &board, int i, int j, int N) {
     for (int row = 0; row < i; ++row) {
         if (board[row][j] == 1) {
@@ -43,6 +46,7 @@ bool isSafe(vector<vector <int> > &board, int i, int j, int N) {
 }
 
 void printBoard(vector<vector <int> > &board, int N) {
+    c++;
     for (int i = 0; i < N; ++i) {
         for (int j = 0; j < N; ++j) {
             if (board[i][j] == 1) {
@@ -56,6 +60,7 @@ void printBoard(vector<vector <int> > &board, int N) {
 }
 
 bool solveNqueen(vector<vector <int> > &board, int i, int N) {
+    totalcalls++;
     // Base case
     if (i == N) {
         // print the board.
@@ -84,5 +89,7 @@ int main() {
     cin >> N;
     vector<vector <int> >board(N, vector<int>(N, 0));
     solveNqueen(board, 0, N);
+    cout << "totalcalls : " << totalcalls << endl;
+    cout << "total solutions: " << c << endl;
     return 0;
 }
