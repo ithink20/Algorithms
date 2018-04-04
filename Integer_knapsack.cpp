@@ -1,5 +1,5 @@
 /*
-    input : n number of items each with weight wi and value vi
+    Input : n number of items each with weight wi and value vi
             and given a knapsack of capacity C
     goal : pack items into knapsack, maximize its value
             its ok to use multiple instances of items.
