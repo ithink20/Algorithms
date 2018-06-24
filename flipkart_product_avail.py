@@ -3,7 +3,7 @@ from urllib2 import urlopen
 from bs4 import BeautifulSoup
 
 link = raw_input("Enter link : ")
-
+#here.
 html = urlopen(link)
 page = html.read()
 html.close()
