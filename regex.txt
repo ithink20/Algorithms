@@ -1,0 +1,24 @@
+\d   -  matches a single character that is a digit(0 - 9)
+\D   -  matches not a digit
+\w   -  matches a 'word character' (alphanumeric + underscore)
+\W   -  matches not a word character
+\s   -  matches a whitespace character(includes tabs & linebreaks)
+\S   -  matches not whitespace
+.    -  matches (almost)all
+
+Anchors:  They do not match any characters, they match a position.
+^    -  matches at the start of the string
+$    -  matches at the end of the string
+
+\b   -  matches word boundary(white-spaces, non-alphanumeric characters)
+\B   -  not a word boundary
+
+Alteration:
+|    -  matches Either or
+
+Repetition:
+?    -  makes preceding token in the regex optional(0 | 1)    ex : colou?r matches color or colour.
+*    -  0 | more
++    -  1 | more
+{2}  -  matches exact number
+{2, 5}  -  matches Range of numbers(min, max);
