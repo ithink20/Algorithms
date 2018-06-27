@@ -11,6 +11,7 @@
 using namespace std;
 typedef long long int lint;
 
+// check for safety.
 bool isSafe(int node, vector <vector<int> > &A, vector <int> &color, int c, int N) {
 	for (int i = 0; i < N; ++i) {
 		if (A[node][i] == 1 && c == color[i]) {

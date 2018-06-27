@@ -38,7 +38,7 @@ void subsets(vector <int> &A) {
 		}
 		cout << endl;
 	}
-} 
+}
 
 int main() {
 	int N;
