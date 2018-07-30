@@ -4,6 +4,7 @@
 * **Quick Sort** - with three cases for pivot.
 * **Merge Sort**
 * **Parenthesis Checker**
+* **Magic Index**  - index such that A[i] = i
 * **Manacher's Algorithm** - get longest palindromic substring in O(n)
 * **Roman-To-Int**
 * **Regular Expression**
