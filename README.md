@@ -4,6 +4,7 @@
 * **Quick Sort** - with three cases for pivot.
 * **Merge Sort**
 * **Parenthesis Checker**
+* **Manacher's Algorithm** - get longest palindromic substring in O(n)
 * **Roman-To-Int**
 * **Regular Expression**
 * **Tower of Hanoi**
