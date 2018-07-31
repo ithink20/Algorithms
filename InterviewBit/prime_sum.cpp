@@ -1,3 +1,6 @@
+//Guarenteed to exist: read https://en.wikipedia.org/wiki/Goldbach%27s_conjecture
+
+
 void Sieve(int n, vector<bool> &isPrime){
     isPrime[0] = isPrime[1] = false;
     for (int i = 2; i <= n; i++)
