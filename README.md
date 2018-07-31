@@ -4,6 +4,14 @@
 * **Quick Sort** - with three cases for pivot.
 * **Merge Sort**
 * **Parenthesis Checker**
+* **String Permutation**   - with backtracking approach
+* **N Queen**   - Backtracking and Branch & Bound approach
+* **M - Coloring**  - Backtracking
+* **Subset**  - Backtracking
+* **Sudoku Solver** - Backtracking
+* **Rat in a Maze** - Backtracking
+* **Dice Rolls & Dice Sum**   - Backtracking efficient way
+* **Magic Index**  - index such that A[i] = i
 * **Manacher's Algorithm** - get longest palindromic substring in O(n)
 * **Roman-To-Int**
 * **Regular Expression**
