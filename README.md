@@ -13,6 +13,7 @@
 * **Dice Rolls & Dice Sum**   - Backtracking efficient way
 * **Magic Index**  - index such that A[i] = i
 * **Manacher's Algorithm** - get longest palindromic substring in O(n)
+* **Z - Algorithm** with timecomplexity: O(m + n) and space complexity: O(m + n)
 * **Roman-To-Int**
 * **Regular Expression**
 * **Tower of Hanoi**
