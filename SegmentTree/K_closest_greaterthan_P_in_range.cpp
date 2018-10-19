@@ -12,7 +12,7 @@ For query of type 2,you need to print the value of Ak.if there is no such K prin
 Print answer for each query in new line.
 */
 
-
+// no need to store (min), I did only for practice purpose.
 
 #include <iostream>
 #include <cstdio>
