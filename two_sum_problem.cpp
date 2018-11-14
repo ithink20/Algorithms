@@ -37,14 +37,14 @@ typedef long long int lint;
 #endif
 #define MAX 100000
 
-void getPairs(int *A, int N, int x) {
+void getPairs(int *A, int N, int target) {
     //init hash.
     bool hash[MAX] = {false};
-    int temp;
+    int other_element;
     for (int i = 0; i < N; ++i) {
-        temp = x - A[i];
-        if (temp >= 0 && hash[temp] == true) {
-            cout << "pair : " << A[i] << " " << temp << endl;
+        other_element = target - A[i];
+        if (other_element >= 0 && hash[other_element] == true) {
+            cout << "pair : " << A[i] << " " << other_element << endl;
         }
         hash[A[i]] = true;
     }
@@ -57,8 +57,8 @@ int main() {
     for (int i = 0; i < N; ++i) {
         cin >> A[i];
     }
-    int x;
-    cin >> x;
-    getPairs(A, N, x);
+    int target_sum;
+    cin >> target_sum;
+    getPairs(A, N, target_sum);
     return 0;
 }
