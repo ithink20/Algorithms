@@ -1,9 +1,12 @@
 /*
-    Input : n number of items each with weight wi and value vi
-            and given a knapsack of capacity C
-    goal : pack items into knapsack, maximize its value
-            its ok to use multiple instances of items.
-    Here M(j) : maximum value one can pack into a knapsack of j.
+ *   @author: vikaschaurasiya
+
+
+ *   Input : n number of items each with weight wi and value vi
+ *           and given a knapsack of capacity C
+ *   goal : pack items into knapsack, maximize its value
+ *           its ok to use multiple instances of items.
+ *   Here M(j) : maximum value one can pack into a knapsack of j.
 */
 
 #include <iostream>
