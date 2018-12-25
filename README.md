@@ -1,4 +1,4 @@
-# Algorithms
+# Algorithms  :book:
 
 
 | Algorithm | File  |
