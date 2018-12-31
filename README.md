@@ -8,6 +8,7 @@
 | Merge Sort | [merge_sort](https://github.com/ithink20/Algorithms/blob/master/merge_sort.cpp) |
 | Parenthesis Checker | [parenthsis_checker.cpp](https://github.com/ithink20/Algorithms/blob/master/parenthesis_checker.cpp) |
 | String Permutation | [string_permutation.cpp](https://github.com/ithink20/Algorithms/blob/master/Backtracking/String_Permutation.cpp) |
+| Trie Data Structure | [trie_implementation.cpp](https://github.com/ithink20/Algorithms/blob/master/Trie_implementation.cpp)|
 | N Queen(Backtracking) | [n_queen.cpp](https://github.com/ithink20/Algorithms/blob/master/Backtracking/N_queen_problem.cpp) |
 | N Queen(Branch&Bound) | [n_queen_b&b.cpp](https://github.com/ithink20/Algorithms/blob/master/Backtracking/N_queens(Branch%26Bound).cpp) |
 | M - Coloring | [m_coloring.cpp](https://github.com/ithink20/Algorithms/blob/master/Backtracking/m_coloring.cpp) |
