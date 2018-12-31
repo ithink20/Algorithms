@@ -40,7 +40,7 @@
 | K-closest Elements | [k_closest.cpp](https://github.com/ithink20/Algorithms/blob/master/k-closestElements.cpp) |
 | Naive Suffix Array | [naive_suffix.cpp](https://github.com/ithink20/Algorithms/blob/master/naive_suffix_array.cpp) |  
 | Linked List | [linked_list.cpp](https://github.com/ithink20/Algorithms/blob/master/creating_linkedlist.cpp) |
-| KMP | [kmp.cpp](https://github.com/ithink20/Algorithms/blob/master/KMP.cpp) |
+| KMP - Algorithm | [kmp.cpp](https://github.com/ithink20/Algorithms/blob/master/KMP.cpp) |
 | Binary Search Tree | [bst.cpp](https://github.com/ithink20/Algorithms/blob/master/BinarySeachTree.cpp) |
 | Banker's Algorithm | [bankers.c](https://github.com/ithink20/Algorithms/blob/master/Banker's%20Algorithms.c) |
 | Producer-Consumer Problem | [prod_cons.py](https://github.com/ithink20/Algorithms/blob/master/Python/producer_consumer.py) |
