@@ -70,7 +70,7 @@
 | Possible Palindromes | [possible_palindrome.cpp](https://github.com/ithink20/Algorithms/blob/master/possible_palindrome.cpp) |
 | Binary Search | [binary_search](https://github.com/ithink20/Algorithms/tree/master/binary_search) |
 | Merge Pdf | [merge_pdfs](https://github.com/ithink20/Algorithms/tree/master/merge_pdfs) |
-| Trailing Zeroes in a factorial | []() |
+| Trailing Zeroes in a factorial | [trailing_zeros.cpp](https://github.com/ithink20/Algorithms/blob/master/InterviewBit/Trailing_Zeros_in_fact.cpp) |
 | Codejam Problems | [codejam](https://github.com/ithink20/Algorithms/tree/master/c_j) |
 | InterviewBit good problems | [interviewbit](https://github.com/ithink20/Algorithms/tree/master/InterviewBit) |
 | Facebook HackerCup Problems | [facebook_file-name]() |
