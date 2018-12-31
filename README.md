@@ -58,6 +58,13 @@
 | Fractional Knapsack | [fractional_knapsack.cpp](https://github.com/ithink20/Algorithms/blob/master/DP/fractional_knapsack.cpp) |
 | Longest Common Subsequence | [lcs.cpp](https://github.com/ithink20/Algorithms/blob/master/DP/LongestCommonSubsequence.cpp) |
 | Longest Increasing Subsequence | [longest_incr_subseq.cpp](https://github.com/ithink20/Algorithms/blob/master/DP/Longest_Increasing_Subseq.cpp) |
+| Prime Sum | [prime_sum.cpp](https://github.com/ithink20/Algorithms/blob/master/InterviewBit/prime_sum.cpp)|
+| Median of Two Arrays | [median_arrays.cpp](https://github.com/ithink20/Algorithms/blob/master/InterviewBit/median_array.cpp)|
+| Longest Palindrome Substring | [longestpalinsubstring.cpp](https://github.com/ithink20/Algorithms/blob/master/InterviewBit/longestPalindromeSubstring.cpp) |
+| Rearrange Array | [rearrange_array.cpp](https://github.com/ithink20/Algorithms/blob/master/InterviewBit/rearrange_array.cpp) |
+| Smallest Subarray | [smallest_subarray.cpp](https://github.com/ithink20/Algorithms/blob/master/InterviewBit/smallest_subarray.cpp) |
+| Longest Subarray | [longest_subarray.cpp](https://github.com/ithink20/Algorithms/blob/master/Longestsubarray.cpp) |
+| Bit-wise Operators | [bitwise_operator](https://github.com/ithink20/Algorithms/tree/master/bitwise_operators) |
 | Two Sum Problem | [two_sum.cpp](https://github.com/ithink20/Algorithms/blob/master/two_sum_problem.cpp) |
 | Coin Change | [coin_change.cpp](https://github.com/ithink20/Algorithms/blob/master/DP/coin_change_DP.cpp) |
 |Second Largest BST| [sec_largest_bst.cpp](https://github.com/ithink20/Algorithms/blob/master/getSecondLargestBST.cpp) |
