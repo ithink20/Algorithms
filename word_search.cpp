@@ -1,5 +1,5 @@
 /*
-    @author: vikasc
+    author: @vikasc
     problem: https://leetcode.com/problems/word-search-ii/
 */
 
