@@ -8,6 +8,7 @@
 | Merge Sort | [merge_sort](https://github.com/ithink20/Algorithms/blob/master/merge_sort.cpp) |
 | Parenthesis Checker | [parenthsis_checker.cpp](https://github.com/ithink20/Algorithms/blob/master/parenthesis_checker.cpp) |
 | String Permutation | [string_permutation.cpp](https://github.com/ithink20/Algorithms/blob/master/Backtracking/String_Permutation.cpp) |
+| Trie Data Structure | [trie_implementation.cpp](https://github.com/ithink20/Algorithms/blob/master/Trie_implementation.cpp)|
 | N Queen(Backtracking) | [n_queen.cpp](https://github.com/ithink20/Algorithms/blob/master/Backtracking/N_queen_problem.cpp) |
 | N Queen(Branch&Bound) | [n_queen_b&b.cpp](https://github.com/ithink20/Algorithms/blob/master/Backtracking/N_queens(Branch%26Bound).cpp) |
 | M - Coloring | [m_coloring.cpp](https://github.com/ithink20/Algorithms/blob/master/Backtracking/m_coloring.cpp) |
@@ -39,7 +40,7 @@
 | K-closest Elements | [k_closest.cpp](https://github.com/ithink20/Algorithms/blob/master/k-closestElements.cpp) |
 | Naive Suffix Array | [naive_suffix.cpp](https://github.com/ithink20/Algorithms/blob/master/naive_suffix_array.cpp) |  
 | Linked List | [linked_list.cpp](https://github.com/ithink20/Algorithms/blob/master/creating_linkedlist.cpp) |
-| KMP | [kmp.cpp](https://github.com/ithink20/Algorithms/blob/master/KMP.cpp) |
+| KMP - Algorithm | [kmp.cpp](https://github.com/ithink20/Algorithms/blob/master/KMP.cpp) |
 | Binary Search Tree | [bst.cpp](https://github.com/ithink20/Algorithms/blob/master/BinarySeachTree.cpp) |
 | Banker's Algorithm | [bankers.c](https://github.com/ithink20/Algorithms/blob/master/Banker's%20Algorithms.c) |
 | Producer-Consumer Problem | [prod_cons.py](https://github.com/ithink20/Algorithms/blob/master/Python/producer_consumer.py) |
@@ -57,6 +58,13 @@
 | Fractional Knapsack | [fractional_knapsack.cpp](https://github.com/ithink20/Algorithms/blob/master/DP/fractional_knapsack.cpp) |
 | Longest Common Subsequence | [lcs.cpp](https://github.com/ithink20/Algorithms/blob/master/DP/LongestCommonSubsequence.cpp) |
 | Longest Increasing Subsequence | [longest_incr_subseq.cpp](https://github.com/ithink20/Algorithms/blob/master/DP/Longest_Increasing_Subseq.cpp) |
+| Prime Sum | [prime_sum.cpp](https://github.com/ithink20/Algorithms/blob/master/InterviewBit/prime_sum.cpp)|
+| Median of Two Arrays | [median_arrays.cpp](https://github.com/ithink20/Algorithms/blob/master/InterviewBit/median_array.cpp)|
+| Longest Palindrome Substring | [longestpalinsubstring.cpp](https://github.com/ithink20/Algorithms/blob/master/InterviewBit/longestPalindromeSubstring.cpp) |
+| Rearrange Array | [rearrange_array.cpp](https://github.com/ithink20/Algorithms/blob/master/InterviewBit/rearrange_array.cpp) |
+| Smallest Subarray | [smallest_subarray.cpp](https://github.com/ithink20/Algorithms/blob/master/InterviewBit/smallest_subarray.cpp) |
+| Longest Subarray | [longest_subarray.cpp](https://github.com/ithink20/Algorithms/blob/master/Longestsubarray.cpp) |
+| Bit-wise Operators | [bitwise_operator](https://github.com/ithink20/Algorithms/tree/master/bitwise_operators) |
 | Two Sum Problem | [two_sum.cpp](https://github.com/ithink20/Algorithms/blob/master/two_sum_problem.cpp) |
 | Coin Change | [coin_change.cpp](https://github.com/ithink20/Algorithms/blob/master/DP/coin_change_DP.cpp) |
 |Second Largest BST| [sec_largest_bst.cpp](https://github.com/ithink20/Algorithms/blob/master/getSecondLargestBST.cpp) |
@@ -69,7 +77,7 @@
 | Possible Palindromes | [possible_palindrome.cpp](https://github.com/ithink20/Algorithms/blob/master/possible_palindrome.cpp) |
 | Binary Search | [binary_search](https://github.com/ithink20/Algorithms/tree/master/binary_search) |
 | Merge Pdf | [merge_pdfs](https://github.com/ithink20/Algorithms/tree/master/merge_pdfs) |
-| Trailing Zeroes in a factorial | []() |
+| Trailing Zeroes in a factorial | [trailing_zeros.cpp](https://github.com/ithink20/Algorithms/blob/master/InterviewBit/Trailing_Zeros_in_fact.cpp) |
 | Codejam Problems | [codejam](https://github.com/ithink20/Algorithms/tree/master/c_j) |
 | InterviewBit good problems | [interviewbit](https://github.com/ithink20/Algorithms/tree/master/InterviewBit) |
 | Facebook HackerCup Problems | [facebook_file-name]() |
