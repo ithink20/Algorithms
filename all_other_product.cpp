@@ -1,4 +1,5 @@
-/*    @author: vikaschaurasiya
+/*    
+    author: @vikasc
  */
 
 #include <iostream>
