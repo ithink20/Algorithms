@@ -82,7 +82,7 @@ public:
         return result;
     }
     void find_helper(vector<vector<char> >&board, int x, int y, Node *current, string word, set<string> &result) {
-        if (x < 0 || x >= board.size() || y < 0 || y >= board.size() || board[x][y] == ' ') {
+        if (x < 0 || x >= board.size() || y < 0 || y >= board[0].size() || board[x][y] == ' ') {
             return;
         }
         if (current->next[board[x][y] - 'a'] != 0) {
