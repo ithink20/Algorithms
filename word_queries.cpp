@@ -1,5 +1,5 @@
 /*
-    @author: vikasc
+    author: @vikasc
     problem: https://www.hackerearth.com/practice/data-structures/advanced-data-structures/trie-keyword-tree/practice-problems/algorithm/dummy4-2/
 */
 

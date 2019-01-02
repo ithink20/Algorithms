@@ -1,5 +1,5 @@
 /*
- *   @author: vikaschaurasiya
+ *   @author: vikasc
 
 
  *   Input : n number of items each with weight wi and value vi
