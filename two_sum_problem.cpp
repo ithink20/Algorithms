@@ -1,5 +1,7 @@
-//author : vikaschaurasiya
-//time-complexity : O(n)
+/*
+    author : @vikasc
+    time-complexity : O(n)
+*/
 
 
 
