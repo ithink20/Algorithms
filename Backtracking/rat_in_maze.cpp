@@ -1,12 +1,20 @@
+/*
+    author: @vikasc
+*/
+
 #include <iostream>
+#include <stdio.h>
+#include <string>
+#include <cstring>
 #include <algorithm>
-#include <vector>
-#include <cstdlib>
+#include <cmath>
 #include <vector>
 #include <set>
 #include <climits>
+#include <utility>
 #include <map>
-#include <string>
+#include <unordered_map>
+#include <unordered_set>
 
 using namespace std;
 
@@ -32,13 +40,12 @@ bool mazeHelper(vector <vector <int> > &MAZE, int x, int y, vector<vector <int> 
 		Path[x][y] = 1;
 
 		// explore
-		if (mazeHelper(MAZE, x + 1, y, Path)) { 	// explore in x
+		if (mazeHelper(MAZE, x + 1, y, Path) || 
+            mazeHelper(MAZE, x, y + 1, Path) || 
+            mazeHelper(MAZE, x - 1, y, Path) || 
+            mazeHelper(MAZE, x, y - 1, Path)) {
 			return true;
 		}
-		if (mazeHelper(MAZE, x, y + 1, Path)) {		// explore in y
-			return true;
-		}
-
 		//unchoose : backtrack
 		Path[x][y] = 0;
 		return false;
@@ -63,14 +70,16 @@ void solveMaze(vector <vector <int> > &MAZE) {
 }
 
 int main() {
-	int N;
-	cin >> N;
-	vector <vector <int> >MAZE(N, vector<int> (N, 0));
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    int N;
+    cin >> N;
+    vector <vector <int> >MAZE(N, vector<int> (N, 0));
 	for (int i = 0; i < N; ++i) {
 		for (int j = 0; j < N; ++j) {
 			cin >> MAZE[i][j];
 		}
 	}
 	solveMaze(MAZE);
-	return 0;
+    return 0;
 }
