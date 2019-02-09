@@ -1,3 +1,7 @@
+/*
+    @author: vikasc
+*/
+
 #include <iostream>
 #include <algorithm>
 #include <queue>
@@ -86,6 +90,30 @@ void levelOrderTraversal(node *root) {
     return;
 }
 
+void levelBylevel(node *root) {
+	if (root == NULL) return;
+	queue<node *> Q;
+	node *current;
+	Q.push(root);
+	Q.push(NULL);
+	while (Q.size() > 1) { //1 delimeter is NULL
+		current = Q.front();
+		Q.pop();
+		if (current == NULL) {
+			Q.push(NULL);
+			cout << endl;
+		} else {
+			if (current -> left) {
+				Q.push(current->left);
+			}
+			if (current -> right) {
+				Q.push(current->right);
+			}
+			cout << current->data << " ";
+		}
+	}
+}
+
 int main() {
     int N, data;
     cin >> N;
@@ -98,5 +126,7 @@ int main() {
     cout << height(root) << endl;
     levelOrderTraversal(root);
     cout << endl;
-    return 0;
+	levelBylevel(root);
+	cout << endl;
+	return 0;
 }
