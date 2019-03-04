@@ -65,5 +65,9 @@ int main() {
 		}
 	}
 	cout << A[0] << endl;
+	// k largest elements
+	//for (int i = 0; i < k; ++i) {
+	//	cout << A[i] << " ";
+	//}
 	return 0;
 }
