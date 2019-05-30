@@ -3,12 +3,12 @@
 
 | Algorithm | File  |
 | --------- | ----- |
-| Heap Sort | [heap_sort.cpp](https://github.com/ithink20/Algorithms/blob/master/codes/heap_sort.cpp) |
+| Heap Sort | [heap_sort.cpp](https://github.com/ithink20/Algorithms/blob/master/codes/Tree/heap_sort.cpp) |
 | Quick Sort | [quick_sort.cpp](https://github.com/ithink20/Algorithms/blob/master/codes/quick_sort.cpp) |
 | Merge Sort | [merge_sort](https://github.com/ithink20/Algorithms/blob/master/codes/merge_sort.cpp) |
 | Parenthesis Checker | [parenthsis_checker.cpp](https://github.com/ithink20/Algorithms/blob/master/codes/parenthesis_checker.cpp) |
 | String Permutation | [string_permutation.cpp](https://github.com/ithink20/Algorithms/blob/master/codes/Backtracking/String_Permutation.cpp) |
-| Trie Data Structure | [trie_implementation.cpp](https://github.com/ithink20/Algorithms/blob/master/codes/Trie_implementation.cpp)|
+| Trie Data Structure | [trie_implementation.cpp](https://github.com/ithink20/Algorithms/blob/master/codes/Trie/Trie_implementation.cpp)|
 | N Queen(Backtracking) | [n_queen.cpp](https://github.com/ithink20/Algorithms/blob/master/codes/Backtracking/N_queen_problem.cpp) |
 | N Queen(Branch&Bound) | [n_queen_b&b.cpp](https://github.com/ithink20/Algorithms/blob/master/codes/Backtracking/N_queens(Branch%26Bound).cpp) |
 | M - Coloring | [m_coloring.cpp](https://github.com/ithink20/Algorithms/blob/master/codes/Backtracking/m_coloring.cpp) |
@@ -34,14 +34,14 @@
 | Union-Find Data Structure | [union_find](https://github.com/ithink20/Algorithms/tree/master/codes/Union-Find) |
 | Queue Implementation | [queue.cpp](https://github.com/ithink20/Algorithms/blob/master/codes/queue.cpp) |
 | Circular Queue | [circular_queue.cpp](https://github.com/ithink20/Algorithms/blob/master/codes/circular_queue.cpp)|
-| Heap - MaxHeap | [max_heap.cpp](https://github.com/ithink20/Algorithms/blob/master/codes/max_heap.cpp) |
-| Heap - MinHeap | [min_heap.cpp](https://github.com/ithink20/Algorithms/blob/master/codes/min_heap.cpp) |
+| Heap - MaxHeap | [max_heap.cpp](https://github.com/ithink20/Algorithms/blob/master/codes/Tree/max_heap.cpp) |
+| Heap - MinHeap | [min_heap.cpp](https://github.com/ithink20/Algorithms/blob/master/codes/Tree/min_heap.cpp) |
 | Window Sliding | [max_sum_window_sliding.cpp](https://github.com/ithink20/Algorithms/blob/master/codes/max_sum(window_sliding).cpp) |
 | K-closest Elements | [k_closest.cpp](https://github.com/ithink20/Algorithms/blob/master/codes/k-closestElements.cpp) |
 | Naive Suffix Array | [naive_suffix.cpp](https://github.com/ithink20/Algorithms/blob/master/codes/naive_suffix_array.cpp) |  
 | Linked List | [linked_list.cpp](https://github.com/ithink20/Algorithms/blob/master/codes/creating_linkedlist.cpp) |
 | KMP - Algorithm | [kmp.cpp](https://github.com/ithink20/Algorithms/blob/master/codes/KMP.cpp) |
-| Binary Search Tree | [bst.cpp](https://github.com/ithink20/Algorithms/blob/master/codes/BinarySeachTree.cpp) |
+| Binary Search Tree | [bst.cpp](https://github.com/ithink20/Algorithms/blob/master/codes/Tree/BinarySeachTree.cpp) |
 | Banker's Algorithm | [bankers.c](https://github.com/ithink20/Algorithms/blob/master/codes/Banker's%20Algorithms.c) |
 | Producer-Consumer Problem | [prod_cons.py](https://github.com/ithink20/Algorithms/blob/master/codes/Python/producer_consumer.py) |
 | Ceaser Cypher | [ceaser.py](https://github.com/ithink20/Algorithms/blob/master/codes/Python/ceaser_cypher.py) |
@@ -68,7 +68,7 @@
 | Bit-wise Operators | [bitwise_operator](https://github.com/ithink20/Algorithms/tree/master/codes/bitwise_operators) |
 | Two Sum Problem | [two_sum.cpp](https://github.com/ithink20/Algorithms/blob/master/codes/two_sum_problem.cpp) |
 | Coin Change | [coin_change.cpp](https://github.com/ithink20/Algorithms/blob/master/codes/DP/coin_change_DP.cpp) |
-|Second Largest BST| [sec_largest_bst.cpp](https://github.com/ithink20/Algorithms/blob/master/codes/getSecondLargestBST.cpp) |
+|Second Largest BST| [sec_largest_bst.cpp](https://github.com/ithink20/Algorithms/blob/master/codes/Tree/getSecondLargestBST.cpp) |
 | Minimum Path Sum(2D) | [min_pathsum.cpp](https://github.com/ithink20/Algorithms/blob/master/codes/DP/minimum_path_sum.cpp) |
 |Minimum Path Sum(Triangle) | [min_pathsum_again.cpp](https://github.com/ithink20/Algorithms/blob/master/codes/DP/minimum_path_sum_again.cpp)|
 | Unique paths | [unique_paths.cpp](https://github.com/ithink20/Algorithms/blob/master/codes/DP/unique_paths.cpp) |
