@@ -22,6 +22,7 @@
 | Manacher's Algorithm | [manachar's_algo.cpp](https://github.com/ithink20/Algorithms/blob/master/codes/Manacher's%20Algorithm.cpp) |
 | Segment Tree | [segment_tree](https://github.com/ithink20/Algorithms/tree/master/codes/SegmentTree) |
 | Magic Square | [magic_square.cpp](https://github.com/ithink20/Algorithms/blob/master/codes/magic_square.cpp) |
+|Serialize-Deserialize|[serialize-deserialize.cpp](https://github.com/ithink20/Algorithms/blob/master/codes/Tree/serialize-deserialize.cpp)
 | Longest Valid Parenthesis | [longest_valid_parenthesis.cpp](https://github.com/ithink20/Algorithms/blob/master/codes/longestValidParenthesis.cpp) |
 | Peak Finder - 1D | [peak_finder_1.cpp](https://github.com/ithink20/Algorithms/blob/master/codes/PeakFinder_1D.cpp) |
 | Peak Finder - 2D | [peak_finder_2.cpp](https://github.com/ithink20/Algorithms/blob/master/codes/PeakFinder_2D.cpp) |
