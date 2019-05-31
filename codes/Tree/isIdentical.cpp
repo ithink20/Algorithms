@@ -25,6 +25,7 @@ node *create_node(int data) {
     node *new_node = new node();
     new_node->data = data;
     new_node->left = new_node->right = NULL;
+    return new_node;
 }
 
 bool isIdentical(node *tree1, node *tree2) {
