@@ -19,9 +19,9 @@ typedef long long int lint;
 #define sq(a) (a) * (a)     //sq(a) a * a   it's not correct, run for sq(2+2)
 
 class Node {
+public:
     Node *next[26];
     bool isLeaf = false;
-public:
     Node() {
         memset(next, 0, sizeof(next));
     }
