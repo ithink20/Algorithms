@@ -21,6 +21,7 @@ typedef long long int lint;
 class Node {
     Node *next[26];
     bool isLeaf = false;
+public:
     Node() {
         memset(next, 0, sizeof(next));
     }
