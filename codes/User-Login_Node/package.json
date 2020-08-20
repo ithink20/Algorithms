@@ -9,7 +9,7 @@
   "author": "vikasc",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "bcryptjs": "^2.4.3",
     "connect-flash": "^0.1.1",
     "ejs": "^2.6.1",
